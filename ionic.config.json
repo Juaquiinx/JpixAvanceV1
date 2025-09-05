@@ -1,0 +1,7 @@
+{
+  "name": "AvanceJpixV1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
